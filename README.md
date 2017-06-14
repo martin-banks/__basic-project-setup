@@ -1,1 +1,1 @@
-# __basic-project-setup
+# small-image-grid
